@@ -13,7 +13,7 @@ Gem::Specification.new do |gem|
   gem.license = 'MIT'
   gem.metadata['rubygems_mfa_required'] = 'true'
 
-  gem.required_ruby_version = '>= 2.7.5'
+  gem.required_ruby_version = '>= 2.7.0'
 
   gem.require_paths = ['lib']
   gem.files = `git ls-files`.split("\n")
